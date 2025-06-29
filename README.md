@@ -1,5 +1,6 @@
-# Keyboard-TesterA Python-based virtual keyboard testing tool that allows users to verify the functionality of their physical keyboard in real-time.
+# Keyboard-Tester
 
+A Python-based virtual keyboard testing tool that allows users to verify the functionality of their physical keyboard in real-time.
 Features: 
    - Real-Time Key Detection: Press a key on your physical keyboard, and see it light up on the on-screen virtual keyboard.
    - Graphical Interface: Built using Tkinter, providing a user-friendly visual layout of a full QWERTY keyboard.
